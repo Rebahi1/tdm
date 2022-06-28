@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Juridique.dz</string>
+    <string name="action_settings">Paramétres</string>
+  <string name="action_search">Rechercher</string>
+  <string name="hint_search">Entrer recherche</string>
+  <string name="toolbar_title">Texte Juridique</string>
+  <string name="book_name_hint">Décret de journée libre </string>
+  <string name="book_author_hint">Année 2008</string>
+</resources>
